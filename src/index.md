@@ -1,3 +1,7 @@
+[Chinese Blog Link](https://lijunlin2022.github.io/blog/index.html)
+
+## Self Introduction
+
 <div style="display: flex;">
   <span>Hello, my name is LiJunlin.</span>
 </div>
