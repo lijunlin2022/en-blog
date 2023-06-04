@@ -1,0 +1,18 @@
+[book]
+authors = ["lijunlin2022（LiJunlin）"]
+language = "en"
+multilingual = false
+src = "src"
+title = "LiJunlin's Blog"
+
+[preprocessor.mermaid]
+command = "mdbook-mermaid"
+
+[output.html]
+additional-js = ["assets/fzf.umd.js", "assets/elasticlunr.js", "assets/mermaid.min.js", "assets/mermaid-init.js"]
+site-url = "https://lijunlin2022.github.io/en-blog/"
+
+git-repository-url = "https://github.com/lijunlin2022/en-blog/issues"
+
+[output.html.print]
+enable = false
